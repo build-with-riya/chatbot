@@ -147,7 +147,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   api_k = await decryptText(config.k, config.temp)
 
   const chatWindow = document.getElementById("chat-window");
-  const welcomeMsg = `नमस्ते, मैं ${config.org} AI, आपका AI सहायक 👋\n\nबताइए मैं आपकी कैसे मदद कर सकता हूँ।`;
+  const welcomeMsg = `नमस्ते, मैं ${config.org} AI, आपका AI सहायक 🙏\n\nबताइए मैं आपकी कैसे मदद कर सकता हूँ।`;
   chatWindow.appendChild(createBubble(welcomeMsg, "assistant"));
 
   // ➕ Add welcome assistant message to history
