@@ -1,0 +1,28 @@
+About GoDaddy
+
+GoDaddy Inc. is an American publicly traded internet domain registrar and web hosting company founded in 1997. This document contains a brief summary of GoDaddy's main product areas and capabilities useful for the RAG retriever.
+
+1) Domain Registration
+- Search, register, renew and transfer domain names.
+- DNS management, forwarding, privacy/protection, domain marketplace.
+
+2) Hosting & WordPress
+- Shared hosting plans for small websites.
+- Managed WordPress hosting optimized for performance and security.
+- VPS and Dedicated hosting plans for higher resource requirements.
+
+3) Website Builder & Ecommerce
+- Drag-and-drop website builder with responsive templates.
+- Built-in ecommerce tools: catalog, orders, payments, shipping integrations.
+
+4) Security & SSL
+- SSL certificates, site scanning and basic malware protections on certain plans.
+
+5) Email & Productivity
+- Professional email via partners and Microsoft 365 integrations.
+
+6) Marketing & Tools
+- Basic SEO, analytics, and marketing tools for small businesses.
+
+7) Support
+- Knowledge base, tutorials, and 24/7 support in several regions.
